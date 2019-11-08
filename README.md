@@ -12,4 +12,7 @@ Steps:
 4. Initialize and apply terraform <br>
    terraform init   <br>
    terraform apply  <br>
+5. After it's done deploying, the example will output URLs or IPs you can try out.<br>
+6. Run the following to clean and delete all the resources.<br>
+   terraform destroy
 
