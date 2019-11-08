@@ -3,13 +3,13 @@ Terraform provisioning of single webserver in aws. Here are the steps I followed
 
 Steps:
 
-1. Install awscli. 
-   brew install awscli
-2. Set up your AWS credentials. It stores the credentials as the environment variables AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY in  ~/.aws/credentials. 
+1. Install awscli.<br>
+   brew install awscli  <br>
+2. Set up your AWS credentials. It stores the credentials as the environment variables AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY in  ~/.aws/credentials. <br>
    aws configure
-3. Install terraform
-   brew install terraform
-4. Initialize and apply terraform
-   terraform init
-   terraform apply
+3. Install terraform   <br>
+   brew install terraform  <br>
+4. Initialize and apply terraform <br>
+   terraform init   <br>
+   terraform apply  <br>
 
